@@ -85,6 +85,6 @@ https://ml4a.github.io/ml4a/how_neural_networks_are_trained/
 https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/
 https://missinglink.ai/guides/neural-network-concepts/neural-network-bias-bias-neuron-overfitting-underfitting/
 https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c
-
+https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3
 
 
